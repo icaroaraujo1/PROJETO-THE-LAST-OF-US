@@ -14,7 +14,7 @@ main:after{
     z-index: -1;
 }
 .conteudo{
-    /* background-color: rgb(0, 238, 255); */
+    background-color: rgb(0, 238, 255);
     display: flex;
     flex-direction: column;
     min-height: 100vh;
