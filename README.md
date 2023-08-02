@@ -49,4 +49,3 @@ Contribuições são bem-vindas! Se você deseja contribuir com este projeto, si
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
 ---
-site desenvolvido 
